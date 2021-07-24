@@ -11,3 +11,7 @@ public class w3_24 {
 		
 	}
 }
+
+// 24. Write a Java program to find a missing number in an array. 
+
+// 12, 16

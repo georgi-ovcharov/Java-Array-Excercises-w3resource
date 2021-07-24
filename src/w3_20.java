@@ -9,3 +9,5 @@ public class w3_20 {
 		System.out.println(list);
 	}
 }
+
+// 20. Write a Java program to convert an array to ArrayList. 

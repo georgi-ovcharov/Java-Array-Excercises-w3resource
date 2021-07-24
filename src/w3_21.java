@@ -25,3 +25,5 @@ public class w3_21 {
 		}
 	}
 }
+
+// 21. Write a Java program to convert an ArrayList to an array. 

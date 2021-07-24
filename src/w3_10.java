@@ -21,3 +21,8 @@ public class w3_10 {
 		System.out.printf("%d", max);
 	}
 }
+
+// 10. Write a Java program to find the maximum and minimum value of an array. 
+
+// 14
+// 77

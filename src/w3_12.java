@@ -11,3 +11,7 @@ public class w3_12 {
 		}
 	}
 }
+
+// 12. Write a Java program to find the duplicate values of an array of integer values. 
+
+// 2, 5, 6

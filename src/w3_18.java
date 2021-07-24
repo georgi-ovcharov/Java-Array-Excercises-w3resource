@@ -8,3 +8,7 @@ public class w3_18 {
 		System.out.print(my_array[1]);
 	}
 }
+
+// 18. Write a Java program to find the second smallest element in an array. 
+
+// -1

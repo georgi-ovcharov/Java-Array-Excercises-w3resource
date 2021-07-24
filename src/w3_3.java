@@ -10,3 +10,20 @@ public class w3_3 {
 		}
 	}
 }
+
+/*
+3. Write a Java program to print the following grid. Go to the editor
+
+Expected Output :
+
+- - - - - - - - - -                                                                                           
+- - - - - - - - - -                                                                                           
+- - - - - - - - - -                                                                                           
+- - - - - - - - - -                                                                                           
+- - - - - - - - - -                                                                                           
+- - - - - - - - - -                                                                                           
+- - - - - - - - - -                                                                                           
+- - - - - - - - - -                                                                                           
+- - - - - - - - - -                                                                                           
+- - - - - - - - - -  
+*/
